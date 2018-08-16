@@ -1,0 +1,8 @@
+.mobile-container {
+    max-width: 1366px;
+    margin: auto;
+    background-color: #555;
+    height: 768px;
+    color: white;
+    border-radius: 10px;
+  }
